@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+mne
+pywavelets
+mne-connectivity
+nolds
+tensorflow
